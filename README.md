@@ -25,7 +25,7 @@ Platforms & Languages
 
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6db33?style=flat-square&logo=Spring&logoColor=white">
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 
   
 </p>
