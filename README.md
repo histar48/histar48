@@ -18,13 +18,21 @@ Here are some ideas to get you started:
 
 🤞 Welcome My Space!
 
-👋 Hi there! I'm developer lee hyunseung.🚀 a developer from Republic of korea
+👋 Hi there! I'm developer leehyunseung.🚀 a developer from Republic of korea
 
 💪 Skills
 Platforms & Languages
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/spring-6db33?style=flat-square&logo=Spring&logoColor=white">
+
+
+  
+</p>
+
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=java&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReduxQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
