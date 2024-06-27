@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Platforms & Languages
 
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/spring-6db33?style=flat-square&logo=Spring&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6db33?style=flat-square&logo=Spring&logoColor=white">
 
 
   
